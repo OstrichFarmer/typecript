@@ -1,2 +1,2 @@
-# typecript
+# typescript
 A typescript project
